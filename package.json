@@ -1,0 +1,22 @@
+{
+  "name": "three-model-export",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview --port 4173"
+  },
+  "dependencies": {
+    "gsap": "^3.11.3",
+    "mitt": "^3.0.0",
+    "pinia": "^2.0.21",
+    "rollup-plugin-glsl": "^1.3.0",
+    "three": "^0.145.0",
+    "vue": "^3.2.38",
+    "vue-router": "^4.1.5"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^3.0.3",
+    "vite": "^3.0.9"
+  }
+}
